@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "usb_device.h": "c",
+        "usbd_def.h": "c",
+        "usbd_conf.h": "c",
+        "stm32wb55xx.h": "c"
+    }
+}
