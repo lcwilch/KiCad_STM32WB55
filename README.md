@@ -1,3 +1,5 @@
+![alt text](https://github.com/lcwilch/KiCad_STM32WB55/blob/main/Bluephil_board.MP.jpg?raw=true)
+
 # KiCad_STM32WB55
 Following along with https://www.youtube.com/watch?v=nkHFoxe0mrU&amp;t=3668s
 
