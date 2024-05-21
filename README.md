@@ -1,6 +1,6 @@
 # KiCad_STM32WB55
 ![alt text](https://github.com/lcwilch/KiCad_STM32WB55/blob/main/Bluephil_board.MP.jpg?raw=true)
-Following along with https://www.youtube.com/watch?v=nkHFoxe0mrU&amp;t=3668s
+Finished https://www.youtube.com/watch?v=nkHFoxe0mrU&amp;t=3668s and successfully manufactured and brought-up board pictured above
 
 # Bluephil
 Contains KiCad project and manufacturing files and information
